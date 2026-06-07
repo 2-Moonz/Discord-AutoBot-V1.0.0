@@ -1,0 +1,12 @@
+# Bot Configuration File
+# Lines starting with # are comments
+
+[BADWORDS]
+badword1
+badword2
+example_slur
+fuck
+nigger
+
+[TOKEN]
+YOUR_BOT_TOKEN_HERE
